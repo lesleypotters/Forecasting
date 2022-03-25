@@ -42,4 +42,3 @@ This repository contains a few forecasting projects written in R. Besides the ge
 ** define NN model and hyperparameters
 ** define XGBoost model and hyperparameters
 * Compare scores of all models
-# Forecasting
